@@ -14,3 +14,4 @@ class Padrao
         echo 'Classe Padrao - Outro Metodo';
     }
 }
+.
