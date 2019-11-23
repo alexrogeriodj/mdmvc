@@ -1,3 +1,3 @@
 # Pasta Application/model
 
-Nesta pasta colocaremos todos as model da aplicação que estederam a model base
+Nesta pasta colocaremos todos as model da aplicação que estederam a model base.
