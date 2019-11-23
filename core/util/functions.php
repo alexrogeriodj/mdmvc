@@ -1,6 +1,6 @@
 <?php
 /**
- * Arquivo contendo funções que podem ser chamadas em todo o sistema
+ * Arquivo contendo funções que podem ser chamadas em todo o sistema.
  */
 
 function debug($var, $continue = false) {
