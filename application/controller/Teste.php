@@ -18,4 +18,4 @@ class Teste
     {
         echo 'Classe Teste - Metodo Lista';
     }
-}.
+}
