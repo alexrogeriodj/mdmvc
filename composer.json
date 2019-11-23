@@ -1,10 +1,10 @@
 {
-    "name": "mayconmoraes-dm/mdmvc",
+    "name": "alexrogeriodj/mdmvc",
     "description": "Framework MDMVC",
     "authors": [
         {
-            "name": "Maycon de Moraes",
-            "email": "mayconmoraes-dm@gmail.com"
+            "name": "Alex Rogério",
+            "email": "alexrogeriodj@gmail.com"
         }
     ],
     "autoload": {
