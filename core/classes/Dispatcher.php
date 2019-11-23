@@ -1,7 +1,7 @@
 <?php
 /**
- * Author: Maycon de Moraes
- * Date:   30/10/2019
+ * Author: Alex Rogério
+ * Date:   22/11/2019
  * Description: Classe que faz as distribuições de classes e metódos no sistema
  */
 namespace Core\Classes;
